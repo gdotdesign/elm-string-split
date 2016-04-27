@@ -1,4 +1,4 @@
-module String.Split where
+module String.Split exposing (..)
 {-| Split strings into chunks
 
 # Splitters
